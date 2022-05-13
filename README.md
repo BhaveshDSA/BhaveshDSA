@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BhaveshDSA
-- 👀 I’m interested in SRE,DevOps,Cloud and Security
+- 👀 I’m interested in SRE, DevOps, Cloud and Security
 - 🌱 I’m currently learning Python,Azure,Web Development
 - 💞️ I’m looking to collaborate on Cloud technologies and Cloud Native
 - 📫 How to reach me https://www.linkedin.com/in/xdbhavesh/
